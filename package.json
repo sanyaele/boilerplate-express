@@ -11,6 +11,7 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+"version": "1.2.0",
 	"engines": {
 		"node": "4.4.5"
 	}
